@@ -1,5 +1,5 @@
 {
-   "name": "mollie/magento",
+   "name": "hans2103/mollie_magento",
     "license": "BSD-2-Clause",
     "type": "magento-module",
     "description":"iDEAL, Creditcard, Bancontact/Mister Cash, SOFORT, Bank transfer, Bitcoin, PayPal & paysafecard for Magento https://www.mollie.com/",
